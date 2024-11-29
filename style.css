@@ -403,10 +403,10 @@ footer p{
     }
     .header{
         text-align: center;
-        height: 140px;
+        height: 125px;
         background-color: #2e3b4e;
         color: #ffff;
-        padding: 12px;
+        padding: 8px;
         margin: 0;
     }
     .header h1{
@@ -424,7 +424,7 @@ footer p{
         display: flex;
         flex-direction: row;
         padding: 10px;
-        margin: 8px 20px 0 110px;
+        margin: 14px 20px 0 110px;
     }
     .nav-links a{
         font-size: 10px;
@@ -527,3 +527,4 @@ footer p{
        margin: 0;
    }
 }
+
